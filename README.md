@@ -10,12 +10,10 @@ Passionate about learning new things through colleagues, talks, blogs, and pet p
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbitmq Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="Dotnet Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="Dotnet Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbitmq Logo" width="50" height="50"/> 
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegnz&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentegnz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentegnz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegnz&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
