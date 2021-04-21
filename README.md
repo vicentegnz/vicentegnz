@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vicente González!
 
-<!--
-**vicentegnz/vicentegnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/vicentegnz?style=social)
 
-Here are some ideas to get you started:
+I'm a Software Engineer specializing in C#, .Net and Azure, especially in distributed systems and backend processes, always with preference for using good practices and with SOLID principles in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about learning new things through colleagues, talks, blogs, and pet projects.
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C# Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbitmq Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="Dotnet Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegnz&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentegnz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
