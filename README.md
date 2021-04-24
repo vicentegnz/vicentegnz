@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vicente González!
 
-![GitHub followers](https://img.shields.io/github/followers/vicentegnz?style=social)
-
 I'm a Software Engineer specializing in C#, .Net and Azure, especially in distributed systems and backend processes, always with preference for using good practices and with SOLID principles in mind.
 
 Passionate about learning new things through colleagues, talks, blogs, and pet projects.
