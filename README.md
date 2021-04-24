@@ -6,6 +6,11 @@ I'm a Software Engineer specializing in C#, .Net and Azure, especially in distri
 
 Passionate about learning new things through colleagues, talks, blogs, and pet projects.
 
+Here you will find some of my personal projects, from some made when I was a student to some pet projects in order to test different technologies.
+
+I have created a personal organization [VicenteGnz-Contributions](https://github.com/vicentegnz-contributions)
+ to keep organized all the open-source projects that interest me, where I have collaborated or I intend to do it.
+
 ---
 
 🧰 Toolbox
