@@ -11,11 +11,6 @@ I have created a personal organization [VicenteGnz-Contributions](https://github
 
 ---
 
-🧰 Toolbox
-
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="C# Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="Dotnet Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="Rabbitmq Logo" width="50" height="50"/> 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentegnz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegnz&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
