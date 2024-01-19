@@ -11,6 +11,6 @@ I have created a personal organization [VicenteGnz-Contributions](https://github
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+### 📫 How to reach me
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentegnz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegnz&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vicentegnz/)
